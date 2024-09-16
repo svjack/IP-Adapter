@@ -39,7 +39,7 @@ we present IP-Adapter, an effective and lightweight adapter to achieve image pro
 
 ```
 # install latest diffusers
-pip install diffusers==0.22.1
+pip install diffusers==0.22.1 transformers einops
 
 # install ip-adapter
 pip install git+https://github.com/tencent-ailab/IP-Adapter.git
